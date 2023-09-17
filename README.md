@@ -16,7 +16,7 @@ To run the application, follow these steps:
 
 Clone this repository to your local machine.
 
-git clone [https://github.com/your-username/advanced-resume-analysis.git](https://github.com/ParitalaHarshitha1/Hire_genious_HR_Analytics)https://github.com/ParitalaHarshitha1/Hire_genious_HR_Analytics)
+git clone [https://github.com/your-username/advanced-resume-analysis.git](https://github.com/ParitalaHarshitha1/Hire_genious_HR_Analytics)
 Install the required Python packages listed in requirements.txt:
 
 pip install -r requirements.txt
