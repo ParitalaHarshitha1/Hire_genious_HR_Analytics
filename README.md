@@ -14,16 +14,16 @@ The application is built using [Streamlit](https://streamlit.io/), a Python libr
 
 To run the application, follow these steps:
 
-1. Clone this repository to your local machine.
+Clone this repository to your local machine.
 
-```bash
 git clone [https://github.com/your-username/advanced-resume-analysis.git](https://github.com/ParitalaHarshitha1/Hire_genious_HR_Analytics)https://github.com/ParitalaHarshitha1/Hire_genious_HR_Analytics)
 Install the required Python packages listed in requirements.txt:
-```bash
+
 pip install -r requirements.txt
 Run the Streamlit application:
-```bash
+
 streamlit run app.py
+
 The application will start, and you can access it via your web browser at http://localhost:8501.
 
 Features
