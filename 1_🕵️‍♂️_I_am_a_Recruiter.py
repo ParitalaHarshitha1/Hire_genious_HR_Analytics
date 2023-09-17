@@ -19,9 +19,8 @@ from matplotlib.font_manager import FontProperties
 from matplotlib.ticker import MaxNLocator
 
 
-#os.environ['OPENAI_API_KEY'] = st.secrets['OPENAI_API_KEY']
-openai.api_key = "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"
-#openai.api_key = os.environ['OPENAI_API_KEY']
+os.environ['OPENAI_API_KEY'] = st.secrets['OPENAI_API_KEY']
+openai.api_key = os.environ['OPENAI_API_KEY']
 
 
 # Constants
