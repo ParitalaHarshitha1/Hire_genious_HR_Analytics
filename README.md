@@ -20,9 +20,10 @@ git clone [https://github.com/your-username/advanced-resume-analysis.git](https:
 Install the required Python packages listed in requirements.txt:
 
 pip install -r requirements.txt
+
 Run the Streamlit application:
 
-streamlit run app.py
+streamlit run main.py
 
 The application will start, and you can access it via your web browser at http://localhost:8501.
 
